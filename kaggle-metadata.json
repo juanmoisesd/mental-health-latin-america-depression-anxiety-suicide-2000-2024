@@ -7,10 +7,9 @@
     }
   ],
   "keywords": [
-    "open-data",
     "research",
     "latin-america"
   ],
-  "description": "Mental health database for 18 Latin American countries (2000–2024): depression, anxiety, suicide rates, psychiatrist density, treatment gap. OSF: https://osf.io/hwna6/\n\nDOI: https://github.com/juanmoisesd/mental-health-latin-america-depression-anxiety-suicide-2000-2024\nGitHub: https://github.com/juanmoisesd/mental-health-latin-america-depression-anxiety-suicide-2000-2024\nAuthor: de la Serna, Juan Moisés",
+  "description": "Mental health database for 18 Latin American countries (2000–2024): depression, anxiety, suicide rates, psychiatrist density, treatment gap. OSF: https://osf.io/hwna6/\nDOI: https://github.com/juanmoisesd/mental-health-latin-america-depression-anxiety-suicide-2000-2024",
   "isPrivate": false
 }
