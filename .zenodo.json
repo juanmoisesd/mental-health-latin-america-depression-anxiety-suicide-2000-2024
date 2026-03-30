@@ -1,0 +1,35 @@
+{
+  "title": "Mental Health Latin America Depression Anxiety Suicide 2000 2024",
+  "description": "Open research dataset: Mental Health Latin America Depression Anxiety Suicide 2000 2024. By Juan Moisés de la Serna Tuya (UNIR).",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "mental health",
+    "public health",
+    "latin america",
+    "open data",
+    "research",
+    "dataset"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-zero",
+  "upload_type": "dataset",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://github.com/juanmoisesd/mental-health-latin-america-depression-anxiety-suicide-2000-2024",
+      "scheme": "url"
+    }
+  ]
+}
